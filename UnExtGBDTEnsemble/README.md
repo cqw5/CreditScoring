@@ -5,9 +5,9 @@
 
 ### 2 模型源程序目录及文件说明
 |--code：源程序目录  
-| &ensp;|-- [fold5_sample.py](./UnExtGBDTEnsemble./code/fold5_sample.py)：采样产生五次五折交叉验证数据的源程序  
-| &ensp;|-- [unExtGBDTEnsemble.py](./UnExtGBDTEnsemble./code/unExtGBDTEnsemble.py)：基于Ext-GBDT集成的类别不平衡信用评分模型源程序  
-| &ensp;|-- [otherModelForComparison.py](./UnExtGBDTEnsemble./code/otherModelForComparison.py)：论文中提到的所有对比模型的源程序  
+| &ensp;|-- [fold5_sample.py](code/fold5_sample.py)：采样产生五次五折交叉验证数据的源程序  
+| &ensp;|-- [unExtGBDTEnsemble.py](code/unExtGBDTEnsemble.py)：基于Ext-GBDT集成的类别不平衡信用评分模型源程序  
+| &ensp;|-- [otherModelForComparison.py](code/otherModelForComparison.py)：论文中提到的所有对比模型的源程序  
 |  
 |--data：数据目录  
 | &ensp; |-- src_data：原始数据目录  
